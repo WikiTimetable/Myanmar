@@ -1,0 +1,3 @@
+shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_traveled
+tripId:110-DN,18.820555,95.21656,1,0.0
+tripId:110-DN,19.736368,96.20705,2,0.0
